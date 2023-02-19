@@ -45,7 +45,6 @@ responses:
   utter_ask_placements:
   - text: "Highest Package in 2021-22 Engineering - ₹36LPA, MBA - ₹28LPA, Hotel Management - ₹18LPA. For detailed information visit 'https://www.cuchd.in/placements/'"
 
-
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
